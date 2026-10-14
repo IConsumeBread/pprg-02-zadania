@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\codingthings\\pprg-02-zadania\\zad5\\zad5.csproj": {}
+    "D:\\codingthings\\pprg-02-zadania\\zad5\\zad5.csproj": {}
   },
   "projects": {
-    "d:\\codingthings\\pprg-02-zadania\\zad5\\zad5.csproj": {
+    "D:\\codingthings\\pprg-02-zadania\\zad5\\zad5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\codingthings\\pprg-02-zadania\\zad5\\zad5.csproj",
+        "projectUniqueName": "D:\\codingthings\\pprg-02-zadania\\zad5\\zad5.csproj",
         "projectName": "zad5",
-        "projectPath": "d:\\codingthings\\pprg-02-zadania\\zad5\\zad5.csproj",
+        "projectPath": "D:\\codingthings\\pprg-02-zadania\\zad5\\zad5.csproj",
         "packagesPath": "C:\\Users\\bread\\.nuget\\packages\\",
-        "outputPath": "d:\\codingthings\\pprg-02-zadania\\zad5\\obj\\",
+        "outputPath": "D:\\codingthings\\pprg-02-zadania\\zad5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bread\\AppData\\Roaming\\NuGet\\NuGet.Config"

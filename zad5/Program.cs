@@ -28,7 +28,7 @@ double hpPercentage = ((double)currenthp / maxhp) * 100;
 bool isAlive = currenthp > 0;
 bool isAtFullHealth = currenthp == maxhp;
 
-Console.WriteLine("RAPORT Z WALKI");
+Console.WriteLine("========== RAPORT Z WALKI ==========");
 Console.WriteLine($"Bohater: {name}");
 Console.WriteLine($"Zdrowie {hpPercentage}");
 Console.WriteLine($"Zwykły atak: {basicAttackDamage}");
@@ -36,3 +36,4 @@ Console.WriteLine($"Atak specjalny: {specialAttackDamage}");
 Console.WriteLine($"Łączne zadane obrażenia: {totalDamage}");
 Console.WriteLine($"Żyje: {isAlive}");
 Console.WriteLine($"Pełne zdrowie: {isAtFullHealth}");
+Console.WriteLine("=====================================");
