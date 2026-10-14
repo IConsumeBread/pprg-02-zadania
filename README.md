@@ -1,2 +1,2 @@
 ﻿# pprg-02-zadania
-nie wiem czy trzeba było robić kolejne zadania po tych D:
+5/6
